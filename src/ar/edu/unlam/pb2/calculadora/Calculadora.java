@@ -9,7 +9,7 @@ public class Calculadora {
 		 
 	 Integer a;
 	 Integer b;
-	 char opcion;
+	 Character opcion;
 	 Integer resultado=0;
 	 
 	 Scanner teclado = new Scanner(System.in);
